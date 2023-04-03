@@ -19,3 +19,15 @@ for i in range (1, num_3):
     progression.append(progression[i-1] + num_2)
 
 print(f"Массив элементов арифметической прогрессии будет: {progression}")
+
+
+
+
+
+
+# Эталонное решение: 
+# a1 = int(input())
+# d = int(input())
+# n = int(input())
+# for i in range(n):
+#     print(a1 + i * d)
